@@ -1,0 +1,9 @@
+#IDE project files
+/.idea
+/venv
+
+#TestProject files
+/allureress
+.env
+pytest.ini
+*.log

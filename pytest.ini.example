@@ -1,0 +1,4 @@
+[pytest]
+markers =
+    auth: marks tests in group auth (deselect with '-m "not auth"')
+    serial
